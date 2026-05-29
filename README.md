@@ -40,7 +40,6 @@ Passionate about full-stack development and problem solving.
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-9333EA?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-7B2FBE?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-6A0DAD?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Databases & Tools**
 
