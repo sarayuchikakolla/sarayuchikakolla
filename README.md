@@ -32,14 +32,21 @@ Passionate about full-stack development and problem solving.
 ![Python](https://img.shields.io/badge/PYTHON-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-8B5CF6?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-7B2FBE?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Web**
-
+**Frontend**
+ 
 ![HTML5](https://img.shields.io/badge/HTML5-7B2FBE?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-9333EA?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-7B2FBE?style=for-the-badge&logo=react&logoColor=white)
+ 
+**Backend**
+ 
+![Node.js](https://img.shields.io/badge/NODE.JS-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-9333EA?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7B2FBE?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases & Tools**
 
