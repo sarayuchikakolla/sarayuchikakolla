@@ -57,3 +57,32 @@ Passionate about full-stack development and problem solving.
 ![AWS](https://img.shields.io/badge/AWS-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+# 📊 GitHub Contributions
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarayuchikakolla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarayuchikakolla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+# ⚡ LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/CH_SARAYU?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/murarisudeeksha12/">
+  <img src="https://img.shields.io/badge/LeetCode-CH_SARAYU-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
