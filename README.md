@@ -68,8 +68,6 @@ Passionate about full-stack development and problem solving.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarayuchikakolla&theme=tokyo-night" />
-</p>g src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarayuchikakolla&layout=compact" />
-</p>
 
 ---
 
