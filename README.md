@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I am Sarayu 
+# Hello there! I am Sarayu 
 
 B.Tech CSE @ CVR College of Engineering (2023–27)
 
