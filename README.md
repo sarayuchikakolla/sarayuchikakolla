@@ -71,6 +71,17 @@ Passionate about full-stack development and problem solving.
 
 ---
 
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sarayuchikakolla&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 # ⚡ LeetCode Stats
 
 <div align="center">
