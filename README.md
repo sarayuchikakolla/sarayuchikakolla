@@ -79,10 +79,8 @@ Passionate about full-stack development and problem solving.
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/murarisudeeksha12/">
+<a href="https://leetcode.com/u/CH_SARAYU/">
   <img src="https://img.shields.io/badge/LeetCode-CH_SARAYU-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
-
----
