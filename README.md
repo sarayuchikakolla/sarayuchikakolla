@@ -4,8 +4,6 @@
 
 B.Tech CSE @ CVR College of Engineering (2023–27)
 
-Passionate about full-stack development and problem solving.
-
 </div>
 
 ---
